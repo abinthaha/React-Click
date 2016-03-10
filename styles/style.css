@@ -1,0 +1,20 @@
+body {
+    background: rgba(0, 0, 0, 0.5);
+}
+.my-component {
+    text-align: center;
+    border: 2px solid wheat;
+    background: #007D7D;
+    font-family: sans-serif;
+    border-radius: 10px;
+    transition: all 0.8s ease;
+    color: white;
+    cursor: pointer;
+}
+.my-component:hover {
+    background: #2DCDCD;
+    color: black;
+}
+.my-component h1 {
+    font-size: 45px;
+}
